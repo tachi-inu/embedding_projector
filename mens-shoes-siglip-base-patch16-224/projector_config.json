@@ -1,0 +1,20 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "My tensor",
+            "tensorShape": [
+                1000,
+                768
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/tachi-inu/embedding_projector/refs/heads/main/mens-shoes-siglip-base-patch16-224/image_embeddings_test_data.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/tachi-inu/embedding_projector/refs/heads/main/mens-shoes-siglip-base-patch16-224/metadata_test_data.tsv",
+            "sprite": {
+                "imagePath": "https://raw.githubusercontent.com/tachi-inu/embedding_projector/refs/heads/main/mens-shoes-siglip-base-patch16-224/sprite_image_test_data.png",
+                "singleImageDim": [
+                    128,
+                    128
+                ]
+            }
+        }
+    ]
+}
